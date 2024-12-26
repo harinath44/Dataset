@@ -1,6 +1,6 @@
 # Dataset
 
-This a dataset of patient information where symptoms represents the features and diseases will represent the class label. 
+This is a dataset of patient information where symptoms represent the features, and diseases represent the class label. 
 
 Data Instances - 221
 Features (Symptoms) - 193
