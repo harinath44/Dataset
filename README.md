@@ -7,5 +7,5 @@ Features (Symptoms) - 193
 Class Labels (Diseases) -23
 
 
-Prepared by Sarvani Jowhar Khanam , Harinath Kuruva , Yasmeen Syed and Salman Abdul Moiz* 
+Prepared by Sarvani Jowhar Khanam , Harinath Kuruva , Yasmeen Syed and Salman Abdul Moiz
 
